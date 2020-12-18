@@ -51,5 +51,5 @@ window.addEventListener('resize', reportWindowSize);
 console.log(menuBtn);
 console.log(menuDropDown);
 
-console.log(roomBtn);
-console.log(roomDropDown);
+// console.log(roomBtn);
+// console.log(roomDropDown);
